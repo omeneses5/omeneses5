@@ -31,5 +31,5 @@ Desarrollador Full Stack fuertemente orientado al desarrollo Backend y profundam
 
 ### 📈 Mis Estadísticas de GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omeneses5&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Oscar" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omeneses5&theme=tokyonight" alt="Racha de Oscar" />
 </p>
